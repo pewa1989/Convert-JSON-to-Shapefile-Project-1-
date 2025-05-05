@@ -1,19 +1,19 @@
 
-# 🗂️ Project Title: Convert New Orleans Parcel JSON to Shapefile
+ Project Title: Convert New Orleans Parcel JSON to Shapefile
 
-## 📌 Summary
+ Summary
 This project demonstrates how to convert a JSON file containing land parcel data for New Orleans (in WKT format) into a shapefile using a Python Toolbox integrated with ArcGIS Pro. The final output is a shapefile visualized and exported as a professional layout map.
 
 ---
 
-## 📁 Dataset
+Dataset
 - Source: [Market Value Analysis 2018 - data.nola.gov](https://data.nola.gov/)
 - Format: JSON with `meta` and `data` sections
 - Geometry Format: WKT (MULTIPOLYGON)
 
 ---
 
-## 🛠️ Tools and Technologies
+ Tools and Technologies
 - Python 3 (within ArcGIS Pro environment)
 - ArcGIS Pro + Python Toolbox (`.pyt`)
 - Libraries used:
@@ -25,7 +25,7 @@ This project demonstrates how to convert a JSON file containing land parcel data
 
 ---
 
-## 🧪 Steps
+ Steps
 
 ### 1. Jupyter Notebook Testing
 ```python
